@@ -1,4 +1,4 @@
-THIS IS A CODE REPO FOR MY ARTIFICIAL INTELLIGENCE 1 MONTH INTERNSHIP @CodeAlpha
+THIS IS A CODE REPO FOR MY RESUME BUILDING PROJECTS
 TASK NO. 1 LANGUAGE TRANSLATOR TOOL
 HERE I , Developed a simple language translation tool that translates text from one language to another.
        It uses machine translation techniques and pre-trained models like Google Translate API or Microsoft Translator API to translate text.
